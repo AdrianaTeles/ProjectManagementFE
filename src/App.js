@@ -102,8 +102,8 @@ class App extends Component {
 
     return (
       <div className="App">
-       <h1> Hi, Im a React app </h1>
-       <p> This is really working </p>
+            <h1> Project Management </h1>
+        
        <button 
           style={style}
           onClick={this.toggleProjectsHandler}>See All Projects</button>
